@@ -120,5 +120,5 @@ unset __conda_setup
 # <<< conda initialize <<<
 
 # meus alias
-alias cat-img="kitty +kitten icat"
+alias icat="kitty +kitten icat"
 
